@@ -28,6 +28,7 @@ body {
   border-radius: 15px;
   color: #ffffff;
   background: inherit;
+  cursor: move;
 }
 
 .block:before {
